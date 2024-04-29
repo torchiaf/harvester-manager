@@ -1,7 +1,7 @@
 import { IPlugin } from '@shell/core/types';
 
 export function init($plugin: IPlugin, store: any) {
-  const PRODUCT_NAME = 'harvester';
+  const PRODUCT_NAME = 'harvester-manager';
   const BLANK_CLUSTER = '_';
 
   const { product } = $plugin.DSL(store, PRODUCT_NAME);

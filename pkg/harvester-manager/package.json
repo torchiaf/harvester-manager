@@ -1,6 +1,6 @@
 {
-  "name": "harvester",
-  "description": "harvester plugin",
+  "name": "harvester-manager",
+  "description": "harvester-manager plugin",
   "version": "0.1.0",
   "private": false,
   "rancher": {

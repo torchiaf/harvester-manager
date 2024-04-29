@@ -1,2 +1,2 @@
-# harvester
-harvester UI extension
+# harvester-manager
+harvester-manager UI extension
