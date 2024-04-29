@@ -2,7 +2,7 @@
 import Dashboard from '../pages/index.vue';
 
 const BLANK_CLUSTER = '_';
-const PRODUCT_NAME = 'harvester';
+const PRODUCT_NAME = 'harvester-manager';
 
 const routes = [
   {
